@@ -1,0 +1,1 @@
+bedtools intersect -wa -a /Users/emilyxu/Desktop/cdrproject/CDRStrictBedFiles/hg002_chrY_PATERNAL.strictCDR.bed -b /Users/emilyxu/Desktop/cdrproject/filteredHG002Annotations/HG002-humanSCchrY_PATERNAL.bed
